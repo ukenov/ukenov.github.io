@@ -3311,6 +3311,10 @@ input, select, textarea {
 		text-align: center;
 		z-index: 1;
 		min-height: 100vh;
+		background-image: url("../../images/mybg.jpg");
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
 	}
 
 		#intro input, #intro select, #intro textarea {
@@ -4620,7 +4624,6 @@ input, select, textarea {
 			right: 0;
 			text-align: right;
 			top: 0;
-			vertical-align: middle;
 			width: 7rem;
 		}
 
